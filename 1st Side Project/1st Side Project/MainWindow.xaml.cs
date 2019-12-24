@@ -23,6 +23,7 @@ namespace _1st_Side_Project
         public MainWindow()
         {
             InitializeComponent();
+            //Wtf am I doing d ko na alam mag programming xD
         }
     }
 }
